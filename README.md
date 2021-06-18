@@ -1,3 +1,3 @@
-Titanic Survived Model
+Titanic Survived Model  
 This is my final exam project for the Programming for Data Science course. In this project I used Python. Firstly, I will deeply look my dataset and trying to understand more. 
 When I was doing that, I create some plots and graphs for better understanding. I also, classify missing datas or useless features in my dataset. After that, I pass it the Machine learning model. In that part, I used 3 different models. These are; Logistic regression, Stoachastic Gradient Descent and Random Forest. You can see my code in a python-format or pdf. This project was very helpful for me and I hope, it is also helpful for you. If you have any suggestion or problem with this project please contact me.
